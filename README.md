@@ -1,5 +1,5 @@
 # Autoip
-Supported Router
+## Supported Router
 
 https://openwrt.org/docs/techref/instructionset/mipsel_24kc
 
