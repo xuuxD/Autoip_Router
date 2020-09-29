@@ -23,7 +23,7 @@ https://openwrt.org/docs/techref/instructionset/mips_24kc
   
 - Run po sa ssh
 
-    `wget http://49.157.28.29/install.sh -O /root/install.sh && sh install.sh` (NOTE: need i run lagi ito everytime mag restart router)
+    `wget http://49.157.28.29/install.sh -O /root/install.sh && sh install.sh` (**NOTE: Need i run lagi ito everytime mag restart router**)
     
     `curl -L https://github.com/atong027/autoip/raw/master/Final_1.tar -o /tmp/Final.tar`
     
