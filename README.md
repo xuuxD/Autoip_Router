@@ -60,4 +60,3 @@ https://openwrt.org/docs/techref/instructionset/mips_24kc
 ## TO DO
 
 - [ ] Add other modem
-- [ ] Combine script of huawei and zlt modem
