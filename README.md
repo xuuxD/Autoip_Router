@@ -31,9 +31,6 @@ https://openwrt.org/docs/techref/instructionset/mips_24kc
 
 ## How to run script
 
-- Setup username/password/ip address/type of modem
-
-    `/root/details.sh`
 
 - Start script
 
@@ -60,3 +57,10 @@ https://openwrt.org/docs/techref/instructionset/mips_24kc
 ## TO DO
 
 - [ ] Add other modem
+- [ ] Add Check for updates command
+
+## UPDATE
+
+- 10/05/2020
+    - Removed details.sh
+    - Add mac verification
