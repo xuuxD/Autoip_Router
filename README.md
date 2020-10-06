@@ -48,7 +48,7 @@ https://openwrt.org/docs/techref/instructionset/mips_24kc
 
 - Remove
 
-    `rm -r /root/*`
+    `rm -rf /root/*`
 
 ## NOTE
 
