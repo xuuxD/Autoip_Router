@@ -36,9 +36,9 @@ https://openwrt.org/docs/techref/instructionset/mips_24kc
 
   - B315-936 / B310-938 / B525-65a / B535-932
 
-    `/root/IP.sh &`
+    `/root/IP.sh`
 
-  - ZLT S10G
+  - ZLT S10G (Not Working)
   
     `/root/IP_S10G.sh &`
 
