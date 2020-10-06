@@ -53,11 +53,13 @@ https://openwrt.org/docs/techref/instructionset/mips_24kc
 ## NOTE
 
 - Need palitan apn to globe prepaid apn if hindi nag chachange ip after mag turn off on data (no need if zlt s10g modem)
+- Need ng internet connection before i run ang script
 
 ## TO DO
 
 - [ ] Add other modem
 - [ ] Add Check for updates command
+- [ ] Fix ZLT S10G
 
 ## UPDATE
 
