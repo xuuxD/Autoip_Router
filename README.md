@@ -16,12 +16,16 @@ https://openwrt.org/docs/techref/instructionset/mips_24kc
     `opkg install curl`
 
     `opkg install coreutils-base64`
+    
+    `rm -rf /root/*`
 
     `curl -L https://github.com/atong027/autoip/raw/master/Final.tar -o /root/Final.tar && tar xf /root/Final.tar -C /root && rm /root/Final.tar`
 
 #### mips_24kc Routers
   
 - Run po sa ssh
+
+    `rm -rf /root/*`
 
     `wget http://49.157.28.29/install.sh -O /root/install.sh && sh install.sh` (**NOTE: Need i run lagi ito everytime mag restart router**)
     
