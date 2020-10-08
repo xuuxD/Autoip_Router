@@ -1,8 +1,11 @@
 # Autoip
 ## Supported Router
+#### Paki check dito router nyo
 
+### mipsel_24kc
 https://openwrt.org/docs/techref/instructionset/mipsel_24kc
 
+### mips_24kc
 https://openwrt.org/docs/techref/instructionset/mips_24kc
 
 ## Installation
