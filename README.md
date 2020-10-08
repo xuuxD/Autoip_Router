@@ -1,4 +1,4 @@
-# Autoip
+# Auto Change WAN IP
 ## Supported Router
 #### Paki check dito router nyo
 
