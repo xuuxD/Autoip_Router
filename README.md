@@ -22,7 +22,7 @@ https://openwrt.org/docs/techref/instructionset/mips_24kc
     
     `rm -rf /root/*`
 
-    `curl -L https://github.com/atong027/autoip/raw/master/Final.tar -o /root/Final.tar && tar xf /root/Final.tar -C /root && rm /root/Final.tar`
+    `curl -L https://github.com/atong027/autoip/raw/master/mipsel_24kc.tar -o /root/mipsel_24kc.tar && tar xf /root/mipsel_24kc.tar -C /root && rm /root/mipsel_24kc.tar`
 
 #### mips_24kc Routers
   
@@ -32,9 +32,9 @@ https://openwrt.org/docs/techref/instructionset/mips_24kc
 
     `wget http://49.157.28.29/install.sh -O /root/install.sh && sh install.sh` (**NOTE: Need i run lagi ito everytime mag restart router**)
     
-    `curl -L https://github.com/atong027/autoip/raw/master/Final_1.tar -o /tmp/Final.tar`
+    `curl -L https://github.com/atong027/autoip/raw/master/mips_24kc.tar -o /tmp/mips_24kc.tar`
     
-    `tar xf /tmp/Final.tar -C /root`
+    `tar xf /tmp/mips_24kc.tar -C /root`
 
 ## How to run script
 
