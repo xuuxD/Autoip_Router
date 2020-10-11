@@ -45,7 +45,7 @@ https://openwrt.org/docs/techref/instructionset/mips_24kc
 
     `/root/IP.sh`
 
-  - ZLT S10G (Not Working)
+  - ZLT S10G (Not Working? kinuha na ng may ari kaya hindi ko ma try haha)
   
     `/root/IP_S10G.sh &`
 
