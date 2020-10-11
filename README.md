@@ -52,6 +52,10 @@ https://openwrt.org/docs/techref/instructionset/mips_24kc
 - Stop
 
     `sh /root/stop`
+    
+- Update
+
+    `/root/update.sh`
 
 - Remove
 
@@ -65,7 +69,7 @@ https://openwrt.org/docs/techref/instructionset/mips_24kc
 ## TO DO
 
 - [ ] Add other modem
-- [ ] Add Check for updates command
+- [x] Add Check for updates command
 - [ ] Fix ZLT S10G
 
 ## UPDATE
@@ -73,3 +77,5 @@ https://openwrt.org/docs/techref/instructionset/mips_24kc
 - 10/05/2020
     - Removed details.sh
     - Add mac verification
+- 10/11/2020
+    - Add update.sh
