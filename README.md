@@ -32,7 +32,7 @@ https://openwrt.org/docs/techref/instructionset/mips_24kc
 
     `wget http://49.157.28.29/install.sh -O /root/install.sh && sh install.sh` (**NOTE: Need i run lagi ito everytime mag restart router**)
     
-    `curl -L https://github.com/atong027/autoip/raw/master/mips_24kc.tar -o /tmp/mips_24kc.tar`
+    `curl -L https://github.com/xuuXD/autoip/raw/master/mips_24kc.tar -o /tmp/mips_24kc.tar`
     
     `tar xf /tmp/mips_24kc.tar -C /root`
 
