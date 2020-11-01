@@ -22,7 +22,7 @@ https://openwrt.org/docs/techref/instructionset/mips_24kc
     
     `rm -rf /root/*`
 
-    `curl -L https://github.com/atong027/autoip/raw/master/mipsel_24kc.tar -o /root/mipsel_24kc.tar && tar xf /root/mipsel_24kc.tar -C /root && rm /root/mipsel_24kc.tar`
+    `curl -L https://github.com/xuuXD/autoip/raw/master/mipsel_24kc.tar -o /root/mipsel_24kc.tar && tar xf /root/mipsel_24kc.tar -C /root && rm /root/mipsel_24kc.tar`
 
 #### mips_24kc Routers
   
