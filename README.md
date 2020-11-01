@@ -79,3 +79,6 @@ https://openwrt.org/docs/techref/instructionset/mips_24kc
     - Add mac verification
 - 10/11/2020
     - Add update.sh
+
+
+Credits to atong027
